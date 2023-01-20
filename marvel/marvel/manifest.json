@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "marvel",
+        "uuid": "375d20d5-95ff-49aa-9041-5d97124e1e6b",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "75c681c7-ca62-4546-b4af-bfa2ccc5b28b",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

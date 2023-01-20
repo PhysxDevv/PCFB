@@ -1,0 +1,56 @@
+{
+    "skins": [
+        {
+            "localization_name": "skin1",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "antman.png"
+        },
+        {
+            "localization_name": "skin2",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "captainamerica.png"
+        },
+        {
+            "localization_name": "skin3",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "elasticman.png"
+        },
+        {
+            "localization_name": "skin4",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "hulk.png"
+        },
+        {
+            "localization_name": "skin5",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "ironmanmk1.png"
+        },
+        {
+            "localization_name": "skin6",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "ironmanmk42.png"
+        },
+        {
+            "localization_name": "skin7",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "spiderman.png"
+        },
+        {
+            "localization_name": "skin8",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "thor.png"
+        },
+        {
+            "localization_name": "skin9",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "venom.png"
+        },
+        {
+            "localization_name": "skin10",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "wolverine.png"
+        }
+    ],
+    "serialize_name": "marvel",
+    "localization_name": "marvel"
+}
