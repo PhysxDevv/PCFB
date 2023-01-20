@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "steves",
+        "uuid": "4efc1933-adf4-43eb-b25e-6552e95365f2",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "e5befa26-2032-455e-adad-133be960d713",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

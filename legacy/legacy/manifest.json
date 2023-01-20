@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "legacy",
+        "uuid": "bb6d3343-b3e0-4997-9a6d-dee4ce273811",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "f44ecd98-a95a-4644-ad6f-2194122d859d",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

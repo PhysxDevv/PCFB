@@ -1,0 +1,90 @@
+{
+    "skins": [
+        {
+            "localization_name": "skin1",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "alex.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin2",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "athletesteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin3",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "boxersteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin4",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "cycalex.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin5",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "cycsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin6",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "devalex.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin7",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "devsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin8",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "physxdev.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin9",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "prisonsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin10",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "scottish.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin11",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "steve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin12",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "tennissteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin13",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "tux.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin14",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "tuxalex.png",
+            "type": "free"
+        }
+    ],
+    "serialize_name": "legacy",
+    "localization_name": "legacy"
+}

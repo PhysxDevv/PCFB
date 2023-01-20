@@ -1,0 +1,72 @@
+{
+    "skins": [
+        {
+            "localization_name": "skin1",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "amiibosteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin2",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "comicsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin3",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "covidsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin4",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "creepersteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin5",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "cursedsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin6",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "diamondsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin7",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "hdsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin8",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "holdingsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin9",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "militarysteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin10",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "mutatedsteve.png",
+            "type": "free"
+        },
+        {
+            "localization_name": "skin11",
+            "geometry": "geometry.humonoid.custom",
+            "texture": "russiansteve.png",
+            "type": "free"
+        }
+    ],
+    "serialize_name": "steves",
+    "localization_name": "steves"
+}
